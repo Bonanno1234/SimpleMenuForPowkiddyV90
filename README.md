@@ -11,7 +11,7 @@ How to install ?
 
 2: Copy and replace any file in simplemenu package to the directory main sd card, enjoy
 
-3: Create Roms folder in roms, i have a picture in list of folder in the package of simple menu.
+3: Create Roms folder in roms, in the wifi have coletion of directory.
 
 -------------------------------------------------------------------------------------------------------------------
 Main Simple Menu: 
