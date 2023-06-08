@@ -1,4 +1,7 @@
 # SimpleMenuForPowkiddyV90
+
+See the wiki tab to have Some special content :D 
+
 Simple Menu For Powkiddy V90
 This is a port version of Simple Menu to Powkiddy V90 and any device with MiyooCFW
 
